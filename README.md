@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-live link : https://vercel.com/mohit-sainis-projects/job-preview-dashboard/7YYUCp3jvjrKJ9mYLDv2BQa6rSfR
+live link : [https://vercel.com/mohit-sainis-projects/job-preview-dashboard/7YYUCp3jvjrKJ9mYLDv2BQa6rSfR](https://job-preview-dashboard-3oow5j9xb-mohit-sainis-projects.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
